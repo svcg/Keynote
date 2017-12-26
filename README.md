@@ -1,2 +1,2 @@
 # Keynote
-my keynote
+This is template for mac Keynote
